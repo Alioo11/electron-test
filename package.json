@@ -48,7 +48,7 @@
     "forge": {
       "publishers": [
         {
-          "name": "@electron-forge/publisher-github",
+          "name": "https://github.com/Alioo11/electron-test",
           "config": {
             "repository": {
               "owner": "https://github.com/Alioo11",
