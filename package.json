@@ -1,6 +1,6 @@
 {
   "name": "electron-experinets",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "an electron app",
   "main": "main.js",
   "scripts": {
