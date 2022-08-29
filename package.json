@@ -11,6 +11,10 @@
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alioo11/electron-test.git"
+  },
   "author": "Alioo11",
   "license": "ISC",
   "devDependencies": {
